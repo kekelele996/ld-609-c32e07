@@ -1,0 +1,1 @@
+package com.generated.civicQueue.constructors; import java.util.*; public final class MaterialReviewDtoFactory { public static Map<String,Object> create(){ return Map.of("id",1,"name","材料预审"); } }

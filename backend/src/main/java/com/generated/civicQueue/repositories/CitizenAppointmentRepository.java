@@ -1,0 +1,1 @@
+package com.generated.civicQueue.repositories; import java.util.*; import org.springframework.stereotype.Repository; @Repository public class CitizenAppointmentRepository { public List<Map<String,Object>> findAll(){ return List.of(Map.of("id",1,"name","预约记录","status","READY")); } }
